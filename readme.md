@@ -2,4 +2,7 @@
 
 Esta serie de libros cuentan la historia de un hacker de los que hay pocos.
 
-**Saul Dominguez**, Git lover pero a medias
+**Saul Dominguez**,Git & Larry Plotter lover
+
+
+
